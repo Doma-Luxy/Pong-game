@@ -19,7 +19,7 @@ The code is organised into multiple funcional files, which are:
 * `main.dart`
 * `score_screen.dart` 
 
-### ball.dart
+### `ball.dart`
 Here we define the *MyBall* class with the properties of the the ball. It is worth mentioning that we used the *avatar_glow* dependencie to create the pučsating effect of the ball.
 
 ```dart
@@ -63,7 +63,7 @@ class MyBall extends StatelessWidget {
   }
 }
   ```
-### brick.dart
+### `brick.dart`
 Here we define the *MyBrick* class with the properties of the the paddles.
 ```dart
   final x;
@@ -89,7 +89,7 @@ Here we define the *MyBrick* class with the properties of the the paddles.
   }
 }
 ```
-### coverscreen.dart
+### `coverscreen.dart`
 Here we a simple widget to writeout the message "T A P  T O  P L A Y" for the user.
 ```dart
 class CoverScreen extends StatelessWidget {
@@ -108,7 +108,7 @@ class CoverScreen extends StatelessWidget {
   }
 }
 ```
-### homepage.dart
+### `homepage.dart`
 Here lays the main part of the code as we define the movement of the ball, movenemt of the paddles (the game moves the upper brick, and the player uses arrow keys on the keyboard) and also define the rules where we restrain the ball movement on the left and right side of the screen.
 ```dart
 
@@ -334,7 +334,7 @@ class _HomePageState extends State<HomePage> {
 }
 ```
 
-### score_screen.dart
+### `score_screen.dart`
 In this file we create a class *ScoreScreen* which keeps track of the score since the game launch.
 ```dart
 
