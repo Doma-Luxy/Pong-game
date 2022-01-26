@@ -4,7 +4,7 @@
 Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.
 
 ## About this game:
-This is a simple game made with Flutter, paying homage to of the very first games, Pong. Pong is groundbreaking electronic game released in 1972 by the American game manufacturer Atari, Inc. One of the earliest video games, Pong became wildly popular and helped launch the video game industry. The original Pong consisted of two paddles that players used to volley a small ball back and forth across a screen. In this case the other paddle is contolled by the software. *To be exact the AI paddle is configugred in a way that it reads the x coordinate of the ball so it cannot miss, sorry if you tried and could not win :P*
+This is a simple game made with Flutter, paying homage to of the very first games, Pong. Pong is groundbreaking electronic game released in 1972 by the American game manufacturer Atari, Inc. One of the earliest video games, Pong became wildly popular and helped launch the video game industry. The original Pong consisted of two paddles that players used to volley a small ball back and forth across a screen. In this case the other paddle is contolled by the software. *To be exact the AI paddle is configured in a way that it reads the x coordinate of the ball so it cannot miss, sorry if you tried and could not win :P*
 
 ## Game demo:
 https://user-images.githubusercontent.com/54951169/150196984-a5a8fb23-7232-470f-a8ba-46b3e7f90c29.mov
